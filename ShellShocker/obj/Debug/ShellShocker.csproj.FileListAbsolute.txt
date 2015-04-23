@@ -1,0 +1,9 @@
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.csprojResolveAssemblyReference.cache
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.Form1.resources
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.Properties.Resources.resources
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.csproj.GenerateResource.Cache
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\bin\Debug\ShellShocker.exe
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\bin\Debug\ShellShocker.pdb
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.exe
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.pdb
+C:\Users\yasser\Desktop\ShellShocker\ShellShocker\obj\Debug\ShellShocker.Loader.resources
